@@ -1,0 +1,19 @@
+{
+    "name": "awt/ground-control-php",
+    "description": "GroundControl for PHP Applications",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aungwinthant",
+            "email": "agwinthant@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GC\\" : "src/"
+        }
+    }
+}
